@@ -11,6 +11,7 @@
 
 <!-- DESCRIPTION -->
 ## Description
+An application that allows you to check the current exchange rates of the most popular currencies, such as USD, EUR, GBP and CHF. It also has a built-in currency converter.
 
 <!-- FEATURES -->
 ## Features
