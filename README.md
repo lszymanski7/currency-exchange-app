@@ -18,6 +18,11 @@ An application that allows you to check the current exchange rates of the most p
 
 <!-- TECHNOLOGIES -->
 ## Technologies
+This project was created with:
+- [React 18](https://reactjs.org/)
+- [Redux 4](https://redux.js.org/)
+- [Babel 7](https://babeljs.io/)
+- [Webpack 5](https://webpack.js.org/)
 
 <!-- INSTALLATION -->
 ## Installation
